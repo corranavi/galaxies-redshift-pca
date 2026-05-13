@@ -1,4 +1,4 @@
-Are those galaxies running away from us?
+*Are those galaxies running away from us?*
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Distant_and_ancient_SPT0615-JD.jpg/960px-Distant_and_ancient_SPT0615-JD.jpg"
      alt="Distant and ancient SPT0615-JD"
